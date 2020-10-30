@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wxm546</title>
+  
+  <subtitle>千言万语</subtitle>
+  <link href="http://wxm546.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://wxm546.github.io/"/>
+  <updated>2020-10-30T08:18:55.207Z</updated>
+  <id>http://wxm546.github.io/</id>
+  
+  <author>
+    <name>wxm546</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL学习</title>
+    <link href="http://wxm546.github.io/2019/04/23/mysql%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://wxm546.github.io/2019/04/23/mysql%E5%AD%A6%E4%B9%A0/</id>
+    <published>2019-04-22T16:00:00.000Z</published>
+    <updated>2020-10-30T08:18:55.207Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;数据类型&quot;&gt;&lt;a href=&quot;#数据类型&quot; class=&quot;headerlink&quot; title=&quot;数据类型&quot;&gt;&lt;/a&gt;数据类型&lt;/h2&gt;&lt;p&gt;数值&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/image/mysql%E5%AD%A6%E4%B9%A0/%E6%95%B0%E5%80%BC.png&quot; alt=&quot;数值&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="http://wxm546.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="MySQL" scheme="http://wxm546.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>马友友-爱的礼赞</title>
+    <link href="http://wxm546.github.io/2018/12/25/%E9%A9%AC%E5%8F%8B%E5%8F%8B-%E7%88%B1%E7%9A%84%E7%A4%BC%E8%B5%9E/"/>
+    <id>http://wxm546.github.io/2018/12/25/%E9%A9%AC%E5%8F%8B%E5%8F%8B-%E7%88%B1%E7%9A%84%E7%A4%BC%E8%B5%9E/</id>
+    <published>2018-12-24T16:00:00.000Z</published>
+    <updated>2020-10-30T08:02:42.557Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="http://wxm546.github.io/categories/diary/"/>
+    
+    
+    <category term="music" scheme="http://wxm546.github.io/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SylvieSimmons</title>
+    <link href="http://wxm546.github.io/2018/09/19/sylviesimmons/"/>
+    <id>http://wxm546.github.io/2018/09/19/sylviesimmons/</id>
+    <published>2018-09-18T16:00:00.000Z</published>
+    <updated>2020-10-30T06:51:34.195Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="http://wxm546.github.io/categories/diary/"/>
+    
+    
+    <category term="music" scheme="http://wxm546.github.io/tags/music/"/>
+    
+    <category term="album" scheme="http://wxm546.github.io/tags/album/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文档索引</title>
+    <link href="http://wxm546.github.io/2018/06/26/%E6%96%87%E6%A1%A3%E7%B4%A2%E5%BC%95/"/>
+    <id>http://wxm546.github.io/2018/06/26/%E6%96%87%E6%A1%A3%E7%B4%A2%E5%BC%95/</id>
+    <published>2018-06-25T16:00:00.000Z</published>
+    <updated>2020-10-30T07:40:59.098Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;文档类&quot;&gt;&lt;a href=&quot;#文档类&quot; class=&quot;headerlink&quot; title=&quot;文档类&quot;&gt;&lt;/a&gt;文档类&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://docs.djangoproject.com/en/2.0/intro/&quot;&gt;Django Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.python.org/3.6/tutorial/index.html&quot;&gt;python API Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;教程类&quot;&gt;&lt;a href=&quot;#教程类&quot; class=&quot;headerlink&quot; title=&quot;教程类&quot;&gt;&lt;/a&gt;教程类&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/zh-CN/docs/learn&quot;&gt;MDN Web入门&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tutorial.djangogirls.org/zh/&quot;&gt;Django Girls 教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000&quot;&gt;廖雪峰 python3 教程&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="http://wxm546.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="文档" scheme="http://wxm546.github.io/tags/%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown使用方法</title>
+    <link href="http://wxm546.github.io/2018/06/24/markdown%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+    <id>http://wxm546.github.io/2018/06/24/markdown%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</id>
+    <published>2018-06-23T16:00:00.000Z</published>
+    <updated>2020-10-30T08:08:13.840Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;语法&quot;&gt;&lt;a href=&quot;#语法&quot; class=&quot;headerlink&quot; title=&quot;语法&quot;&gt;&lt;/a&gt;语法&lt;/h2&gt;&lt;h3 id=&quot;图片&quot;&gt;&lt;a href=&quot;#图片&quot; class=&quot;headerlink&quot; title=&quot;图片&quot;&gt;&lt;/a&gt;图片&lt;/h3&gt;&lt;p&gt;&lt;code&gt;![备注](https://test.com/test.jpg)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.pixabay.com/photo/2017/12/26/04/01/bird-3039692_640.jpg&quot; alt=&quot;备注&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h3&gt;&lt;p&gt;1 ~ 6 个 &lt;code&gt;#&lt;/code&gt; 号加空格开头：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;# 这是 H1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;###### 这是 H6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;字体&quot;&gt;&lt;a href=&quot;#字体&quot; class=&quot;headerlink&quot; title=&quot;字体&quot;&gt;&lt;/a&gt;字体&lt;/h3&gt;&lt;p&gt;&lt;code&gt;**加粗**&lt;/code&gt;, &lt;strong&gt;加粗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;*强调*&lt;/code&gt;, &lt;em&gt;强调&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;~~删除线~~&lt;/code&gt;, &lt;del&gt;删除线&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&quot;引用&quot;&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h3&gt;&lt;p&gt;右尖括号&lt;code&gt;&amp;gt;&lt;/code&gt;开头，引用一段话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;右尖括号 &amp;gt; 表示引用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;链接&quot;&gt;&lt;a href=&quot;#链接&quot; class=&quot;headerlink&quot; title=&quot;链接&quot;&gt;&lt;/a&gt;链接&lt;/h3&gt;&lt;p&gt;邮箱: &lt;a href=&quot;mailto:&amp;#x78;&amp;#x61;&amp;#x70;&amp;#112;&amp;#x62;&amp;#x6f;&amp;#120;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#x78;&amp;#x61;&amp;#x70;&amp;#112;&amp;#x62;&amp;#x6f;&amp;#120;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;.&lt;br&gt;链接: &lt;a href=&quot;http://lessfun.com/app&quot;&gt;http://lessfun.com/app&lt;/a&gt;.&lt;br&gt;链接: &lt;a href=&quot;http://blog.lessfun.com/&quot;&gt;Lessfun Blog&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;引用样式的链接: &lt;a href=&quot;http://lessfun.com/app/marktext/&quot; title=&quot;Markdown text editor for iOS&quot;&gt;引用&lt;/a&gt;, 输入id，然后在文档内任意处定义该id所指向的地址，标题是可选的：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="http://wxm546.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="markdown" scheme="http://wxm546.github.io/tags/markdown/"/>
+    
+    <category term="hexo,next" scheme="http://wxm546.github.io/tags/hexo-next/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>周四和小柳去北京玩</title>
+    <link href="http://wxm546.github.io/2018/06/24/%E5%91%A8%E5%9B%9B%E5%92%8C%E5%B0%8F%E6%9F%B3%E5%8E%BB%E5%8C%97%E4%BA%AC%E7%8E%A9/"/>
+    <id>http://wxm546.github.io/2018/06/24/%E5%91%A8%E5%9B%9B%E5%92%8C%E5%B0%8F%E6%9F%B3%E5%8E%BB%E5%8C%97%E4%BA%AC%E7%8E%A9/</id>
+    <published>2018-06-23T16:00:00.000Z</published>
+    <updated>2019-02-14T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/image/%E5%91%A8%E5%9B%9B%E5%92%8C%E5%B0%8F%E6%9F%B3%E5%8E%BB%E5%8C%97%E4%BA%AC%E7%8E%A9/171529832443_.pic.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/image/%E5%91%A8%E5%9B%9B%E5%92%8C%E5%B0%8F%E6%9F%B3%E5%8E%BB%E5%8C%97%E4%BA%AC%E7%8E%A9/181529832444_.pic.jpg&quot; alt=&quot;2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/image/%E5%91%A8%E5%9B%9B%E5%92%8C%E5%B0%8F%E6%9F%B3%E5%8E%BB%E5%8C%97%E4%BA%AC%E7%8E%A9/231529832448_.pic.jpg&quot; alt=&quot;3&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Diary" scheme="http://wxm546.github.io/categories/diary/"/>
+    
+    
+    <category term="北京" scheme="http://wxm546.github.io/tags/%E5%8C%97%E4%BA%AC/"/>
+    
+    <category term="照片" scheme="http://wxm546.github.io/tags/%E7%85%A7%E7%89%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://wxm546.github.io/2018/06/16/%E5%96%9C%E6%AC%A2%E5%B0%8F%E6%9F%B3/"/>
+    <id>http://wxm546.github.io/2018/06/16/%E5%96%9C%E6%AC%A2%E5%B0%8F%E6%9F%B3/</id>
+    <published>2018-06-15T16:00:00.000Z</published>
+    <updated>2018-06-25T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="http://wxm546.github.io/categories/diary/"/>
+    
+    
+    <category term="hello world!" scheme="http://wxm546.github.io/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>

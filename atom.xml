@@ -6,7 +6,7 @@
   <link href="http://wxm546.github.io/atom.xml" rel="self"/>
   
   <link href="http://wxm546.github.io/"/>
-  <updated>2020-11-03T11:05:43.365Z</updated>
+  <updated>2020-11-07T02:10:55.434Z</updated>
   <id>http://wxm546.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://wxm546.github.io/2020/11/07/2020-11-7%202/"/>
+    <id>http://wxm546.github.io/2020/11/07/2020-11-7%202/</id>
+    <published>2020-11-07T01:52:50.797Z</published>
+    <updated>2020-11-07T02:10:55.434Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>重新部署hexo</title>
@@ -158,7 +179,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;右尖括号 &amp;gt; 表示引用。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;链接&quot;&gt;&lt;a href=&quot;#链接&quot; class=&quot;headerlink&quot; title=&quot;链接&quot;&gt;&lt;/a&gt;链接&lt;/h3&gt;&lt;p&gt;邮箱: &lt;a href=&quot;mailto:&amp;#x78;&amp;#x61;&amp;#112;&amp;#112;&amp;#x62;&amp;#111;&amp;#120;&amp;#x40;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#x78;&amp;#x61;&amp;#112;&amp;#112;&amp;#x62;&amp;#111;&amp;#120;&amp;#x40;&amp;#x67;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;.&lt;br&gt;链接: &lt;a href=&quot;http://lessfun.com/app&quot;&gt;http://lessfun.com/app&lt;/a&gt;.&lt;br&gt;链接: &lt;a href=&quot;http://blog.lessfun.com/&quot;&gt;Lessfun Blog&lt;/a&gt;.  &lt;/p&gt;
+&lt;h3 id=&quot;链接&quot;&gt;&lt;a href=&quot;#链接&quot; class=&quot;headerlink&quot; title=&quot;链接&quot;&gt;&lt;/a&gt;链接&lt;/h3&gt;&lt;p&gt;邮箱: &lt;a href=&quot;mailto:&amp;#120;&amp;#97;&amp;#x70;&amp;#x70;&amp;#x62;&amp;#111;&amp;#120;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#120;&amp;#97;&amp;#x70;&amp;#x70;&amp;#x62;&amp;#111;&amp;#120;&amp;#x40;&amp;#x67;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;.&lt;br&gt;链接: &lt;a href=&quot;http://lessfun.com/app&quot;&gt;http://lessfun.com/app&lt;/a&gt;.&lt;br&gt;链接: &lt;a href=&quot;http://blog.lessfun.com/&quot;&gt;Lessfun Blog&lt;/a&gt;.  &lt;/p&gt;
 &lt;p&gt;引用样式的链接: &lt;a href=&quot;http://lessfun.com/app/marktext/&quot; title=&quot;Markdown text editor for iOS&quot;&gt;引用&lt;/a&gt;, 输入id，然后在文档内任意处定义该id所指向的地址，标题是可选的：&lt;/p&gt;</summary>
     
     
